@@ -1,0 +1,351 @@
+body{
+	background: #f6f9ff;
+	font-family: 'Poppins', sans-serif;
+}
+
+*{
+	margin: 0px;
+}
+
+.text{
+	opacity: 0.8;
+}
+
+/*-------------------------------------*/
+
+.div1{
+	width: 100%;
+	height: 70px;
+	background: white;
+	box-shadow: #DEE6F2 0px 1px 30px 1px;
+}
+
+.div2{
+	width: 100%;
+}
+
+.div3{
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.div31{
+	width: 400px;
+	height: 200px;
+	background: #f6f9ff;
+	box-shadow: #DEE6F2 3px 9px 30px 1px;
+}
+
+.div311{
+	width: 370px;
+	height: 60px;
+	margin-left: 15px;
+	background: white;
+}
+
+.div3111{
+	width: 290px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.div32{
+	width: 400px;
+	height: 200px;
+	background: #f6f9ff;
+	box-shadow: #DEE6F2 3px 9px 30px 1px;
+}
+
+.div33{
+	width: 400px;
+	height: 200px;
+	background: #f6f9ff;
+	box-shadow: #DEE6F2 3px 10px 30px 2px;
+}
+
+.div4{
+	margin-left: 170px;
+	margin-top: 12px;
+	width: 1180px;
+	height: 1190px;
+}
+
+.div42{
+	display: flex;
+}
+
+.div41{
+	width: 283.75px;
+	height: 80px;
+	margin-top: 10px;
+}
+
+.div43{
+	margin-left: 15px;
+}
+
+.div431{
+	width: 580px;
+	height: 80px;
+}
+
+.div432{
+	width: 580px;
+	height: 80px;
+	margin-left: 15px;
+}
+
+.div44{
+	height: 80px;
+	display: flex;
+}
+
+.div5{
+	width: 1180px;
+	height: 80px;
+	display: flex;
+}
+
+.div51{
+	width: 383.33px;
+	height: 80px;
+}
+
+.div52{
+	width: 383.33px;
+	height: 80px;
+	margin-left: 15px;
+}
+
+.div53{
+	width: 383.33px;
+	height: 80px;
+	margin-left: 15px;
+}
+
+.div6{
+	width: 1180px;
+	height: 70px;
+	background: #fff3cd;
+	border-radius: 10px;
+	border: 2px solid #fff3cd;
+}
+
+.div7{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+.div7 button{
+	width: 220px;
+	height: 40px;
+	background: #3F00FF;
+	color: white;
+	font-size: 18px;
+	transition: 0.3s;
+}
+
+.div7 button:hover{
+	background: #0530ad;
+	width: 280px;
+	height: 60px;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+/*-------------------------------------*/
+
+.h11{
+	font-weight: 400;
+	text-align: center;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.h21{
+	font-weight: 300;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+.h22{
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.h41{
+	color: #798eb3;
+	text-align: left;
+	margin-left: 20px;
+}
+
+.h61{
+	color: white;
+}
+
+/*-------------------------------------*/
+
+.p1{
+	text-align: left;
+	margin-left: 35px;
+}
+
+.p2{
+	text-align: left;
+	margin-left: 35px;
+}
+
+.p3{
+	margin-top: 10px;
+	text-align: left;
+	margin-left: 35px;
+	font-weight: bold;
+}
+
+.p4{
+	text-align: left;
+	margin-left: 5px;
+}
+
+.p5{
+	text-align: left;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+.p6{
+	margin-left: 50px;
+}
+
+.p7{
+	font-size: 14px;
+	opacity: 0.7;
+	text-align: center;
+}
+
+/*-------------------------------------*/
+
+.sp1{
+	color: #f6f9ff;
+}
+
+.sp2{
+	color: #f6f9ff;
+}
+
+.sp3{
+	margin-left: 120px;
+}
+
+.sp4{
+	margin-left: 140px;
+}
+
+.sp5{
+	font-size: 5px;
+	color: #fff3cd;
+}
+
+.sp6{
+	font-size: 21px;
+}
+
+/*-------------------------------------*/
+
+.input1{
+	margin-top: 10px;
+	font-size: 22.5px;
+}
+
+.input2{
+	margin-top: 10px;
+	font-size: 22.5px;
+}
+
+.input3{
+	margin-top: 10px;
+	font-size: 22.5px;
+}
+
+.input4{
+	margin-top: 10px;
+	font-size: 22.5px;
+}
+
+.input5{
+	width: 580px;
+	height: 40px;
+	background: #F2F2F2;
+	margin-top: 10px;
+}
+
+.input6{
+	width: 575px;
+	height: 40px;
+	background: white;
+	margin-top: 10px;
+}
+
+.input1:hover, .input2:hover, .input3:hover, .input4:hover{
+	border-radius: 3px;
+	border: 3px solid blue;
+}
+
+.input5:hover{
+	border-radius: 3px;
+	border: 3px solid #808080;
+}
+
+.input6:hover{
+	border-radius: 3px;
+	border: 3px solid black;
+}
+
+.input7{
+	width: 375px;
+	height: 30px;
+	margin-top: 10px;
+}
+
+.input7:hover{
+	border-radius: 3px;
+	border: 3px solid blue;
+}
+
+.input8{
+	width: 375px;
+	height: 35px;
+	margin-top: 10px;
+	background: #F2F2F2;
+}
+
+.input8:hover{
+	border-radius: 3px;
+	border: 3px solid black;
+}
+
+/*-------------------------------------*/
+
+
+.pic1{
+	width: 150px;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: 15px;
+}
+
+/*-------------------------------------*/
+
+.a1{
+	font-size: 25px;
+	text-decoration: none;
+	float: right;
+	margin-right: 100px;
+	margin-top: 20px;
+}
